@@ -1,0 +1,21 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "KKPRSX44DW.com.moh.nusukapp",
+                "paths": [
+                    "/app*",
+                    "/app/*"
+                ]
+            },
+            {
+                "appID": "KKPRSX44DW.com.moh.nusukapp.test",
+                "paths": [
+                    "/app*",
+                    "/app/*"
+                ]
+            }
+        ]
+    }
+}
